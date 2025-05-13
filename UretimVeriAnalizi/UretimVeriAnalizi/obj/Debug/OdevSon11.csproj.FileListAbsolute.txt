@@ -1,0 +1,10 @@
+D:\Users\cagri\OneDrive\Masaüstü\NTP FORMS\OdevSon11\OdevSon11\bin\Debug\OdevSon11.exe.config
+D:\Users\cagri\OneDrive\Masaüstü\NTP FORMS\OdevSon11\OdevSon11\bin\Debug\OdevSon11.exe
+D:\Users\cagri\OneDrive\Masaüstü\NTP FORMS\OdevSon11\OdevSon11\bin\Debug\OdevSon11.pdb
+D:\Users\cagri\OneDrive\Masaüstü\NTP FORMS\OdevSon11\OdevSon11\obj\Debug\OdevSon11.csproj.AssemblyReference.cache
+D:\Users\cagri\OneDrive\Masaüstü\NTP FORMS\OdevSon11\OdevSon11\obj\Debug\OdevSon11.Properties.Resources.resources
+D:\Users\cagri\OneDrive\Masaüstü\NTP FORMS\OdevSon11\OdevSon11\obj\Debug\OdevSon11.csproj.GenerateResource.cache
+D:\Users\cagri\OneDrive\Masaüstü\NTP FORMS\OdevSon11\OdevSon11\obj\Debug\OdevSon11.csproj.CoreCompileInputs.cache
+D:\Users\cagri\OneDrive\Masaüstü\NTP FORMS\OdevSon11\OdevSon11\obj\Debug\OdevSon11.exe
+D:\Users\cagri\OneDrive\Masaüstü\NTP FORMS\OdevSon11\OdevSon11\obj\Debug\OdevSon11.pdb
+D:\Users\cagri\OneDrive\Masaüstü\NTP FORMS\OdevSon11\OdevSon11\obj\Debug\UretimVeriAnalizi.Form1.resources
